@@ -1,4 +1,4 @@
-# Entrega Proyecto - Rutas del Mundo / Marvel
+# Entrega Proyecto - Desarrollo de Interfaces
 
 ## Enlaces del proyecto
 * **Tablero Kanban:** [Abrir Tablero GitHub Projects](https://github.com/users/JavierGN2007/projects/3)
